@@ -11,9 +11,5 @@ in the end, we combined the robot arm control panel with the base control panel 
 ### Pictures
 Home page
 
-![صورة1](https://user-images.githubusercontent.com/85671599/123699842-605f7880-d868-11eb-8287-61649bb16940.png)
 
-
-![image](https://user-images.githubusercontent.com/85671599/123699481-02329580-d868-11eb-80ce-6f5205f0a23f.png)
-
-![image](https://user-images.githubusercontent.com/85671599/123699672-3312ca80-d868-11eb-85db-729baca0e566.png)
+![image](https://user-images.githubusercontent.com/85671599/123700117-b7654d80-d868-11eb-9930-ee1da7d6f214.png)
